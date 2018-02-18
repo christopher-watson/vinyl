@@ -1,9 +1,21 @@
+/* .html{
+  font-size: 30px;
+}; */
+
 .jumbotron-fluid{
   background-image: url("../images/background.jpg");
   background-size: cover;
   background-position: center;
-  z-index: 5;
 };
+
+.bg-secondary{
+  opacity: .2;
+};
+
+/* .header-inner{
+  background-color: black;
+  opacity: .7;
+}; */
 
 /* .alternate-font{
   font-family: 'Patua One', serif !important;
@@ -11,6 +23,6 @@
   font-size: 200%;
 }; */
 
-.card-text{
-  font-size: 200px;
-};
+/* .card-text{
+  font-size: 20px;
+}; */
