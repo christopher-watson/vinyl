@@ -1,21 +1,23 @@
-/* .html{
-  font-size: 30px;
-}; */
+/* body{
+  font-size: 20px;
+  background-color: hsla(0, 0, 44, .2);
+  z-index: -500;
+} */
 
 .jumbotron-fluid{
   background-image: url("../images/background.jpg");
   background-size: cover;
   background-position: center;
+  z-index: -20;
 };
 
-.bg-secondary{
-  opacity: .2;
-};
 
 /* .header-inner{
   background-color: black;
-  opacity: .7;
-}; */
+  opacity: .1;
+  z-index: -5;
+} */
+
 
 /* .alternate-font{
   font-family: 'Patua One', serif !important;
