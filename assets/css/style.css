@@ -1,0 +1,12 @@
+.jumbotron-fluid{
+  background-image: url("../images/background.jpg");
+  background-size: cover;
+  background-position: center;
+  z-index: 5;
+};
+
+/* .alternate-font{
+  font-family: 'Patua One', serif !important;
+  text-transform: uppercase;
+  font-size: 200%;
+}; */
