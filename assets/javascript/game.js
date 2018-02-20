@@ -58,7 +58,7 @@ var vinylGame = {
       $("#win-num").text(this.winHTML);
       $.alert({
         title: 'You Win',
-        content: '',
+        content: this.randNum + ' - ' + this.playerScore,
         theme: 'black',
       });
       vinylGame.vinylClear();
@@ -71,7 +71,7 @@ var vinylGame = {
       $("#loss-num").text(this.loseHTML);
       $.alert({
         title: 'You Lose',
-        content: '',
+        content: this.randNum + ' - ' + this.playerScore,
         theme: 'black'
       });
       vinylGame.vinylClear();
