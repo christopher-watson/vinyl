@@ -4,7 +4,7 @@ _Christopher Watson_
 
 **Vinyl Collector**
 
-[Click Here to Play](https://christopher-watson.github.io/week-4-game/)
+[Click Here to Play](https://christopher-watson.github.io/vinyl/)
 
 A web app where users can collect Vinyl!
 
